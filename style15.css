@@ -1,0 +1,33 @@
+body{
+	background-color:  rgb(102,0,51);
+}
+.anc{
+	border: 1px solid rgb(102,0,51);
+	padding: 12px;
+	background-color: rgb(102,0,51); 
+	text-decoration: none;
+	color: white;
+	margin-left:  5%;
+	margin-right: 5%;
+	border-radius: 30px;
+	width: 90px;
+	text-align: center;
+
+}
+#nav{
+	border: 2px solid black;
+	display: flex;
+	flex-direction: row;
+	background-color: black;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	padding: 5px;
+
+}
+#txt{
+	color: white;
+	width: 80%;
+	margin: 15% auto;
+}
